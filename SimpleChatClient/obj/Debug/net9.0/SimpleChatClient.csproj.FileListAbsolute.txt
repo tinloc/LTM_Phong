@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\bin\Debug\net9.0\SimpleChatClient.exe
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\bin\Debug\net9.0\SimpleChatClient.deps.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\bin\Debug\net9.0\SimpleChatClient.runtimeconfig.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\bin\Debug\net9.0\SimpleChatClient.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\bin\Debug\net9.0\SimpleChatClient.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.sourcelink.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\refint\SimpleChatClient.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\SimpleChatClient.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatClient\obj\Debug\net9.0\ref\SimpleChatClient.dll

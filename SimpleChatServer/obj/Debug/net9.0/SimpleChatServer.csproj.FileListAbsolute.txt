@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\bin\Debug\net9.0\SimpleChatServer.exe
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\bin\Debug\net9.0\SimpleChatServer.deps.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\bin\Debug\net9.0\SimpleChatServer.runtimeconfig.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\bin\Debug\net9.0\SimpleChatServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\bin\Debug\net9.0\SimpleChatServer.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.sourcelink.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\refint\SimpleChatServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\SimpleChatServer.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleChatServer\obj\Debug\net9.0\ref\SimpleChatServer.dll
