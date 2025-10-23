@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\bin\Debug\net9.0\SimpleGCDServer.exe
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\bin\Debug\net9.0\SimpleGCDServer.deps.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\bin\Debug\net9.0\SimpleGCDServer.runtimeconfig.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\bin\Debug\net9.0\SimpleGCDServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\bin\Debug\net9.0\SimpleGCDServer.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.sourcelink.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\refint\SimpleGCDServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\SimpleGCDServer.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\SimpleGCDServer\obj\Debug\net9.0\ref\SimpleGCDServer.dll
