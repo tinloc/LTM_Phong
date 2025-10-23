@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\bin\Debug\net9.0\DoubleChatTCPServer.exe
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\bin\Debug\net9.0\DoubleChatTCPServer.deps.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\bin\Debug\net9.0\DoubleChatTCPServer.runtimeconfig.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\bin\Debug\net9.0\DoubleChatTCPServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\bin\Debug\net9.0\DoubleChatTCPServer.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.sourcelink.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\refint\DoubleChatTCPServer.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\DoubleChatTCPServer.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPServer\obj\Debug\net9.0\ref\DoubleChatTCPServer.dll

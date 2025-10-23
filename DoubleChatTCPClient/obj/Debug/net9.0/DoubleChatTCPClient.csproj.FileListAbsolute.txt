@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\bin\Debug\net9.0\DoubleChatTCPClient.exe
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\bin\Debug\net9.0\DoubleChatTCPClient.deps.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\bin\Debug\net9.0\DoubleChatTCPClient.runtimeconfig.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\bin\Debug\net9.0\DoubleChatTCPClient.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\bin\Debug\net9.0\DoubleChatTCPClient.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.sourcelink.json
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\refint\DoubleChatTCPClient.dll
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.pdb
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\DoubleChatTCPClient.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Desktop\LTM_Phong\DoubleChatTCPClient\obj\Debug\net9.0\ref\DoubleChatTCPClient.dll
